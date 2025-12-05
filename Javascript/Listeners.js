@@ -1,1 +1,1 @@
-document.getElementById("Commence").addEventListener  
+document.getElementById("Commence").addEventListener("click", Prologue);  
