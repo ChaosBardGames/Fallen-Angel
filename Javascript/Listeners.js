@@ -7,3 +7,5 @@ document.getElementById("Other").addEventListener("click", GenderC3);
 document.getElementById("Hammer").addEventListener("click", JobC1); //For choosing initial job
 document.getElementById("Sword").addEventListener("click", JobC2);
 document.getElementById("Scroll").addEventListener("click", JobC3);
+
+document.getElementById("Intro III").addEventListener("click", IntroIV);
