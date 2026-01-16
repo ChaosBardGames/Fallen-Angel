@@ -1,4 +1,4 @@
 const IntroIV = () => {
-  document.getElementByClass("Start Screen").style.display = "block";
-  document.getElementByClass("Intro I").style.display = "none";
+  document.getElementByClass("Intro IV").style.display = "block";
+  document.getElementByClass("Intro III").style.display = "none";
 }
